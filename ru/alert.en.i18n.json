@@ -1,0 +1,16 @@
+{
+   "alert" : {
+      "catalog__moreProducts" : "Are you looking for more products? Try to search for those:",
+      "demoStore" : "You are on a demo store mode, you can freely explore all the store features. When you are to start your business",
+      "linkedOrder" : "The products will be added to the order __id__",
+      "linkedOrder__subtitle" : "In cause the order is already shipped this order will be fulfilled as a new order",
+      "needToPay" : "Order will not process until you add money to your balance, <span>Pay Now!<\/span>",
+      "order__cancel" : "Are you sure you want to cancel the order?",
+      "payOrder__warnings" : "WARNINGS",
+      "payOrder__warnings__confirm" : "RISK: We will not deliver all items.",
+      "store__confirm" : "You have to confirm the active store in order to use it",
+      "store__langLimit" : "You can not select more than languages limit in your subscription",
+      "store__reconnect" : "You have to update your store connection",
+      "store__setup__fields" : "Add your store setup fields"
+   }
+}
